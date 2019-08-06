@@ -1,2 +1,3 @@
 this is my new learn git demo.
 dev branch add a dot.
+feature1 add something.master doesn't know.
